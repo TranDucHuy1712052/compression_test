@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 
-# test folder
+# test folder and results
 tests/
+input/
+input_encoded/
+output/
